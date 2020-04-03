@@ -1,0 +1,47 @@
+{
+  stream: {
+    _id: 1043851537,
+    game: '',
+    broadcast_platform: 'live',
+    community_id: '',
+    community_ids: [],
+    viewers: 0,
+    video_height: 1080,
+    average_fps: 60,
+    delay: 0,
+    created_at: '2020-04-01T18:55:10Z',
+    is_playlist: false,
+    stream_type: 'live',
+    preview: {
+      small: 'https://static-cdn.jtvnw.net/previews-ttv/live_user_claitz-80x45.jpg',
+      medium: 'https://static-cdn.jtvnw.net/previews-ttv/live_user_claitz-320x180.jpg',
+      large: 'https://static-cdn.jtvnw.net/previews-ttv/live_user_claitz-640x360.jpg',
+      template: 'https://static-cdn.jtvnw.net/previews-ttv/live_user_claitz-{width}x{height}.jpg'
+    },
+    channel: {
+      mature: false,
+      status: 'WARZONE IN PARTY! Cerchiamo la vittoria numero 15',
+      broadcaster_language: 'it',
+      broadcaster_software: '',
+      display_name: 'claitz',
+      game: 'Call of Duty: Modern Warfare',
+      language: '',
+      _id: 76139177,
+      name: 'claitz',
+      created_at: '2014-11-28T21:27:17.501637Z',
+      updated_at: '2020-03-31T20:53:51.761591Z',
+      partner: false,
+      logo: 'https://static-cdn.jtvnw.net/jtv_user_pictures/claitz-profile_image-38b16d365203bb65-300x300.jpeg',
+      video_banner: 'https://static-cdn.jtvnw.net/jtv_user_pictures/eb84ff86-85c9-4da9-b191-234d3909f34c-channel_offline_image-1920x1080.png',
+      profile_banner: 'https://static-cdn.jtvnw.net/jtv_user_pictures/e7e7f707-5b3d-4a92-9300-582e8c5885a9-profile_banner-480.jpeg',
+      profile_banner_background_color: '',
+      url: 'https://www.twitch.tv/claitz',
+      views: 120,
+      followers: 11,
+      broadcaster_type: '',
+      description: '',
+      private_video: false,
+      privacy_options_enabled: false
+    }
+  }
+}
