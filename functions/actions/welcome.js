@@ -19,7 +19,7 @@ module.exports = async ctx => {
         );
       }
     } catch (e) {
-      return ctx.reply('Very error');
+      return ctx.reply('Wow, much error');
     }
   }
 };
