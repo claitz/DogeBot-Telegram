@@ -3,6 +3,6 @@ const handler = async (ctx) => {
 };
 
 module.exports = {
-  regexp: /test (.+)/i,
+  regexp: /^!test (.+)/i,
   fn: handler,
 };
